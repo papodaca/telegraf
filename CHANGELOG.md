@@ -335,6 +335,7 @@
 - [#7262](https://github.com/influxdata/telegraf/issues/7262): Fix status path when using globs in phpfpm.
 
 ## v1.14 [2020-03-26]
+## v1.13 [2019-12-12]
 
 #### Release Notes
 
