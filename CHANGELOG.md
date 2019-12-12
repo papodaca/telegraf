@@ -135,6 +135,7 @@
   - [systemd-timings](https://github.com/pdmorrow/telegraf-execd-systemd-timings) - Gather systemd boot and unit timestamp metrics.
 
 ## v1.15.3 [2020-09-11]
+## v1.13 [2019-12-12]
 
 #### Release Notes
 
